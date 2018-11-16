@@ -117,6 +117,13 @@ img, video, audio {
 }
 
 /*--------------SECTIONS------------*/
+header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+
 section {
   padding: 20px;
   margin-bottom: 20px;
@@ -127,4 +134,12 @@ section {
   position: fixed;
   top: 200px;
   right: 20px;
+  width: 40px;
+  z-index: 1;
+}
+
+#social a {
+  display: block;
+  width: 40px;
+  height: 40px;
 }
