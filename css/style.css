@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
-/* This 
-is 
+/* This
+is
 a comment! */
 
 /* CSS Syntax:
@@ -75,4 +75,16 @@ figcaption {
 .wrapper {
   width: 960px;
   margin: 0 auto;
+}
+
+.col-1 {
+  flot: left;
+}
+
+.col-2 {
+  flot: left;
+}
+
+.col-3 {
+  float: right;
 }
